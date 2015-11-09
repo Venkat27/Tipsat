@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tipstat</string>
+    <string name="fa_icon_home">&#xf015;</string>
+    <string name="fa_icon_star">&#xf005;</string>
+    <string name="fa_icon_ethnicity">&#xf24d;</string>
+    <string name="fa_icon_item_right">&#xf054;</string>
+    <string name="fa_icon_sortby">&#xf1c0;</string>
+    <string name="fa_icon_height">&#xf1ae;</string>
+
+
+    <string name="total_mem"><b>Total Members :</b></string>
+    <string name="api_hits"><b>API Hits :</b></string>
+
+
+    <string name="search_hint">Search (by status, weight, height)</string>
+    <string-array name="arr_ethnicity">
+        <item>Asian</item>
+        <item>Indian</item>
+        <item>African Americans</item>
+        <item>Asian Americans</item>
+        <item>European</item>
+        <item>British</item>
+        <item>Jewish</item>
+        <item>Latino</item>
+    </string-array>
+
+</resources>
